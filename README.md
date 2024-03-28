@@ -11,7 +11,7 @@
 > - C# is an object-oriented language. Learn about classes, objects, inheritance, and encapsulation.
 > - Explore how to create and use classes effectively.
 
-<br>
+<br><br><br>
 
 
 > [!NOTE]
@@ -34,7 +34,7 @@ namespace HelloWorld
 ```
 This program prints “Hello, World!” to the console.
 
-<br>
+<br><br><br>
 
 > [!NOTE]
 > Certainly! Here’s a simple example of how you can create an array in C#:
@@ -63,7 +63,7 @@ class Program
 In this example, we’ve created an integer array called myArray with five elements. You can modify the array size and initialize it with different values as needed.
 When you run this program, it will display the elements of the array. Feel free to adapt this code snippet to your specific requirements! 🚀
 
-<br>
+<br><br><br>
 
 > [!NOTE]
 > Here’s a simple example of creating a class and an object in C#:
@@ -115,7 +115,7 @@ In this example:
 - We create an object (person1) of the Person class and set its properties.
 - Finally, we call the DisplayInfo method to show the person’s information.
 
-<br>
+<br><br><br>
 
 > [!NOTE]
 > Inheritance:
@@ -154,7 +154,7 @@ class Program
 }
 ```
 
-<br>
+<br><br><br>
 
 > [!NOTE]
 > Polymorphism:
@@ -190,7 +190,7 @@ class Program
 
 ```
 
-<br>
+<br><br><br>
 
 > [!NOTE]
 > Encapsulation:
